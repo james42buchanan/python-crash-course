@@ -1,0 +1,4 @@
+I have learned how to use 'if' statements, 'for' loops, and 'while' loops.
+I have learned how to use pandas, numpy, matplotlib, seaborn, etc. for data analysis.
+I have learned basic object-oriented programming concepts such as classes and inheritance.
+I have learned how to write functions with arbitrary and keyword arguments.
